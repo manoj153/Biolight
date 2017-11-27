@@ -12,7 +12,7 @@
 	* 10 min
 	* 15 min
 
-**2 input SW**
+**2 input SW + 1 ADC** 
 
 ## Output
 
@@ -31,4 +31,9 @@
 * LED Ind 5
 * LED Ind 6
 
-**13 input SW**
+* LED BATT L
+* LED BATT M
+* LED BATT H
+
+
+**16 Output **
