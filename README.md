@@ -3,14 +3,14 @@
 ## Input
 
 * Timer
-	** Slow
-	** Fast 
-	** Torch
+	* Slow
+	* Fast 
+	* Torch
 
 * Mode
-	** 5 min
-	** 10 min
-	** 15 min
+	* 5 min
+	* 10 min
+	* 15 min
 
 **2 input SW**
 
