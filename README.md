@@ -11,6 +11,7 @@
 	* 5 min
 	* 10 min
 	* 15 min
+* ADC
 
 **2 input SW + 1 ADC** 
 
